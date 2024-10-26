@@ -6,7 +6,7 @@ export const PandaConfig = {
     defaultLocale: 'zh',
     navbar: [
         // {title: 'Posts', url: '/'}, // auto generated
-        { title: 'about', url: '/about/' }
+        { title: '关于我', url: '/about/' }
     ],
     footer: [
         { title: 'rss', url: '/rss.xml/' },
