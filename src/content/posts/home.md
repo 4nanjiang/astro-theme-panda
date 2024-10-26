@@ -1,11 +1,11 @@
 ---
-title: 故鄉
-title_en: home
-pubDate: 1921-01-10
-categories: ['魯迅']
-tags: ['名篇']
-description: "鲁迅的作品"
-draft: true
+title: 第一篇博文
+title_en: first post
+pubDate: 2024-10-26
+categories: ['']
+tags: ['blog','博客']
+description: "我关于写博客的一些遐思"
+draft: false
 ---
 
 我冒了嚴寒，回到相隔二千餘里，別了二十餘年的故鄉去。
