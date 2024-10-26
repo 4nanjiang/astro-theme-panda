@@ -2,7 +2,6 @@
 title: 故鄉
 title_en: home
 pubDate: 1921-01-10
-categories: ['']
 tags: ['blog','博客']
 description: '123'
 draft: false
