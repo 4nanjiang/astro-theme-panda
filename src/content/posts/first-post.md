@@ -1,6 +1,5 @@
 ---
 title: 第一篇博文
-title_en: first post
 publishDate: 2024-10-26
 tags: ['blog','博客']
 description: "我关于写博客的一些遐思"
