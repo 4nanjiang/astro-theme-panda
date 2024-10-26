@@ -1,16 +1,16 @@
 export const PandaConfig = {
-    title: 'Panda Blog',
-    description: 'Panda Blog, a blog powered by Astro',
-    start: '2016',
-    site: 'https://astro-theme-panda.vercel.app/',
-    defaultLocale: 'en',
+    title: '南江 Blog',
+    description: '不加引述的言谈，不经推敲的思考',
+    start: '2024',
+    site: 'https://www.nanjiang.online/',
+    defaultLocale: 'zh',
     navbar: [
         // {title: 'Posts', url: '/'}, // auto generated
         { title: 'about', url: '/about/' }
     ],
     footer: [
         { title: 'rss', url: '/rss.xml/' },
-        { title: 'contact', url: 'https://github.com/yuhangch/astro-theme-panda/issues/new' },
-        { title: 'github', url: 'https://github.com/yuhangch/astro-theme-panda' }
+        // { title: 'contact', url: 'https://github.com/yuhangch/astro-theme-panda/issues/new' },
+        // { title: 'github', url: 'https://github.com/yuhangch/astro-theme-panda' }
     ]
 }
