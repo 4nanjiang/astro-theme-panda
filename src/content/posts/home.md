@@ -1,11 +1,11 @@
 ---
-title: 第一篇博文
-title_en: first post
-pubDate: 2024-10-26
+title: 故鄉
+title_en: home
+pubDate: 1921-01-10
 categories: ['魯迅']
-tags: ['博客']
-description: "我关于写博客的一些遐思"
-draft: false
+tags: ['名篇']
+description: "鲁迅的作品"
+draft: true
 ---
 
 
