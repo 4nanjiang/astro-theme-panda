@@ -1,7 +1,7 @@
 ---
   title: 相遇
   title_en: meet
-  pubDate: 2024-10-26  
+  pubDate: 2024-10-28
   description: "短片《相遇》的分享"  
   draft: false  
 ---
