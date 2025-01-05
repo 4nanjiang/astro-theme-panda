@@ -2,7 +2,7 @@
 
 title: 2024：阅读的迷失与追寻
 title_en: 2024: The Lost and Found of Reading
-pubDate: 2025-1-5
+pubDate: 2025-01-05
 tags: ['recap','年终回顾']
 description: "以个人视角记录2024年的阅读体验，剖析阅读背后的动机与未解的命题。"
 draft: false
