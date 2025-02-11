@@ -11,7 +11,7 @@ draft: false
 
 ### context
 
-Paisa 为复式记账工具，在 GitHub 中开源。众多 APP 中选择 Paisa 的一大诱因，是其 Clash Flow 和 Assets Allocation 中直观且优美的图表。
+Paisa 为复式记账工具，在 GitHub 中开源。众多 APP 中选择 Paisa 的一大诱因，是其 Cash Flow 和 Assets Allocation 中直观且优美的图表。
 
 复式记账虽然理念出众，却记录繁琐且不便。每日或定期整理累积的记录，有碍于养成好的记录习惯。碎片化的随时记录，更利于记录。目前有如 telegram bot 的快捷记录方式，不过还是比不过专业的 APP。
 
