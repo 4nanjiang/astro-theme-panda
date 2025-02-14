@@ -2,7 +2,7 @@
 title: 听书睡觉
 title_en: sleeping-with-audiobooks
 pubDate: 2025-02-14
-tags: ['audiobooks', 'sleep', 'mobile', 'stories']
+tags: ['audiobooks', 'sleep']
 description: "记录了听书睡觉的独特体验。"
 draft: false
 ---
