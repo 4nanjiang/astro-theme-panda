@@ -46,7 +46,11 @@ export default defineConfig({
     },
     integrations: [
         UnoCSS(),
-        sitemap(),
+        sitemap({
+            changefreq: 'weekly',    // 告诉搜索引擎页面更新频率
+            priority: 0.7,           // 设置页面优先级
+            lastmod: new Date(),     // 添加最后修改时间
+        }),
         expressiveCode({
             themes: [nightOwlDark, nightOwlLight],
             themeCssSelector: (theme) => {
