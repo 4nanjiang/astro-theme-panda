@@ -1,7 +1,7 @@
 import rss from '@astrojs/rss'
 import { getCollection } from 'astro:content'
 import MarkdownIt from 'markdown-it'
-import { PandaConfig } from '../config.js'
+import { PandaConfig } from '../../config.js'
 const { site, description, title } = PandaConfig
 
 export const prerender = true
@@ -12,14 +12,14 @@ export async function GET({ params }) {
     const blog = await getCollection('posts')
     const posts = blog
         .filter((i) => {
-            // 过滤出非草稿且不是英文版本的文章
-            return i.data.title && !i.data.draft && !i.id.includes('.en.md')
+            // 过滤出非草稿且是英文版本的文章
+            return i.data.title && !i.data.draft && i.id.includes('.en.md')
         })
         .map((post) => {
             const html = parser.render(post.body)
             return {
                 ...post.data,
-                link: `/posts/${post.slug}/`,
+                link: `/en/posts/${post.slug}/`,
                 content: html
             }
         })
@@ -27,7 +27,7 @@ export async function GET({ params }) {
         (
             await rss({
                 site,
-                title: `${title} - 中文`,
+                title: `${title} - English`,
                 description,
                 items: posts
             })

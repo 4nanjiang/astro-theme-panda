@@ -2,20 +2,22 @@
 import {useLocale} from '@utils/locale'
 import {PandaConfig} from "../config.js";
 const {start, footer} = PandaConfig;
-const {t, path} = useLocale(Astro.url)
+const {t, path, locale} = useLocale(Astro.url)  // 添加 locale
 ---
 
 <footer class="mt-12 mb-6 text-sm">
-
     <div class="mb-1">
         {footer &&
             footer.map((item, index) => (
-                    <span>
-
-              <a href={item.url} class="panda-link">{item.title}</a>
-                        {index !== footer.length - 1 && <span class="mx-1">|</span>}
-                    </span>
-
+                <span>
+                    <a 
+                        href={item.title === 'rss' ? (locale === 'en' ? '/en/rss.xml' : '/rss.xml') : item.url} 
+                        class="panda-link"
+                    >
+                        {t(`footer.${item.title}`)}
+                    </a>
+                    {index !== footer.length - 1 && <span class="mx-1">|</span>}
+                </span>
             ))
         }
     </div>

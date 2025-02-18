@@ -11,7 +11,11 @@ export const PandaConfig = {
         }
     ],
     footer: [
-        { title: 'rss', url: '/rss.xml/' },
+        { 
+            title: 'rss',
+            // 修改为直接使用字符串而不是对象
+            url: '/rss.xml'
+        },
         // { title: 'contact', url: 'https://github.com/yuhangch/astro-theme-panda/issues/new' },
         // { title: 'github', url: 'https://github.com/yuhangch/astro-theme-panda' }
     ]
