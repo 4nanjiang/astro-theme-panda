@@ -1,25 +1,22 @@
 ---
-title: "The Melancholy of Haruhi Suzumiya"
-pubDate: 2024-03-28
-tags: ['anime', 'reflection', 'Japanese culture']
-description: "Reflections on revisiting 'The Melancholy of Haruhi Suzumiya' and its impact on anime culture."
+title: Why Did I Come to Like Haruhi Suzumiya?
+title_en: Why Did I Come to Like Haruhi Suzumiya?
+pubDate: 2024-11-04
+tags: ['self-identity']
+description: "Why Did I Come to Like Haruhi Suzumiya?"
 draft: false
 ---
 
-Returning to "The Melancholy of Haruhi Suzumiya" after years brings both nostalgia and new insights. This series, which once revolutionized the anime industry, still holds unique charm and significance.
+I watched "The Melancholy of Haruhi Suzumiya" series about 10 years ago.
 
-## Cultural Impact
+During my chunnibyou phase, I was drawn to kuudere characters. I remember always declaring my fondness for Yuki Nagato in discussions. The reasons for liking Yuki Nagato were twofold: first, she seemed omniscient, and second, she maintained her quiet demeanor even while silently contributing from the shadows—a selfless personality.
 
-The series created a phenomenon that extended beyond just anime. It influenced how light novels were adapted, how character archetypes were portrayed, and how anime marketing evolved.
+However, as my memories of the series gradually fade, it's ironically Haruhi Suzumiya who leaves the strongest impression now.
 
-## Narrative Innovation
+> If any of you are aliens, time travelers, people from other dimensions, or espers, come find me. That is all!
 
-The non-linear storytelling and meta-narrative elements were groundbreaking for their time. Even today, the series' approach to storytelling remains fresh and engaging.
+As I grow older, I increasingly want to surround myself with interesting things. I want to maintain a heart that seeks out the interesting, and become an interesting person myself.
 
-## Character Dynamics
+How do we define ourselves, and by what measures do we make our choices? "Being interesting" must be one of those measures.
 
-The interactions between characters, particularly the dynamic between Kyon and Haruhi, demonstrate sophisticated character writing that transcends typical anime tropes.
-
-## Modern Relevance
-
-While some aspects of the series may feel dated, its core themes about youth, power, responsibility, and the search for meaning continue to resonate with modern audiences.
+**Interesting!**

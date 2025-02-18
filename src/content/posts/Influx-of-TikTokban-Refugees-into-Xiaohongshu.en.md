@@ -1,25 +1,22 @@
 ---
-title: "The Migration: From TikTok Ban to Xiaohongshu"
-pubDate: 2024-04-01
-tags: ['social media', 'digital trends', 'platform migration']
-description: "An analysis of user migration patterns following social media platform changes and their impact on content ecosystems."
+title: The Influx of TikTok Ban Refugees into Xiaohongshu
+title_en: Influx of TikTokban Refugees into Xiaohongshu
+pubDate: 2025-01-15
+tags: ['internet', 'social media', 'TikTok', 'Xiaohongshu']
+description: "This article examines the phenomenon of users flooding into Xiaohongshu following the TikTok ban, analyzing its causes and impacts."
 draft: false
 ---
 
-The recent shifts in social media platform usage have created interesting patterns of user migration, particularly the movement of content creators to alternative platforms.
+- Why do Chinese internet companies always launch separate apps for international markets? For Xiaohongshu, the influx of foreign users might be more harmful than beneficial.
 
-## Platform Dynamics
+- Why aren't users migrating to Douyin? Because Douyin requires a Chinese phone number.
 
-When users migrate between platforms, they bring their content creation habits and audience expectations with them. This creates interesting hybrid content forms and new community dynamics.
+- For American "refugees," flooding into Xiaohongshu isn't about consuming content—it's an act of defiance against authority. Their reasoning seems to be: if the government fears Chinese TikTok, they'll migrate to another Chinese app.
 
-## Content Evolution
+- They love TikTok, they didn't choose X or Meta, they're Generation Z.
 
-The migration has led to evolution in content styles, as creators adapt their content to fit new platform characteristics while maintaining their unique voice.
+- They care about both privacy and freedom of choice.
 
-## Community Impact
+- In the Xiaohongshu subreddit, many posts report users being banned.
 
-These migrations affect both the original and destination platforms' communities. New content styles emerge, while existing communities adapt to changing platform demographics.
-
-## Future Implications
-
-These shifts in user behavior and content creation patterns might indicate larger trends in how social media platforms evolve and how users adapt to changing digital landscapes.
+- Foreign-created posts have started appearing in my Xiaohongshu feed. It's interesting how Xiaohongshu's recommendation algorithm can surface these posts from zero-following accounts.

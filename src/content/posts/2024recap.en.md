@@ -1,25 +1,34 @@
 ---
-title: "2024 Annual Review"
-pubDate: 2024-12-31
-tags: ['recap', 'reflection', '2024']
-description: "A comprehensive review of 2024, reflecting on personal growth, challenges, and achievements throughout the year."
+title: An Unnecessary Year-End Reflection of 2024
+title_en: 2024 recap
+pubDate: 2024-12-18
+tags: ['recap', 'reflection']
+description: "Hope for 2025: overcome shyness, embrace imperfection and failure as the norm, strive for freedom, and keep making choices."
 draft: false
 ---
 
-As 2024 draws to a close, it's time to reflect on the journey of the past year. This review encompasses various aspects of life, from personal development to professional growth.
+A wasted year, hiding in stagnant time, gazing lifelessly at the world flowing past from within my dark cave of self-isolation.
 
-## Reading and Learning
+Looking back with future eyes, as an observer, this year, like many before it, has been marked by laziness and self-degradation, bridging the past and extending indifferently into the future. I remain the same fragile soul from a decade ago, showing no growth in either others' eyes or my own. A child in others' view, feeling childish myself, having neither shouldered responsibilities nor taken steps forward. The past is too painful to revisit, the future too vague to contemplate.
 
-The year brought new perspectives through books and online learning. While the quantity of books read might not have met initial goals, each book contributed to a broader understanding of different subjects and viewpoints.
+I've gradually lost my grasp on certain concepts and my sensitivity to desires, slowly losing understanding of the meaning in everything around me. Sometimes concepts and desires merge, tumbling before my eyes, while I merely glance away, unmoved. One night, I burst out the door, walking aimlessly in the darkness until my toes ached and bruised. I moved away from the city towards the outskirts, where darkness better suited my eyes. Standing on an overpass, dozens of meters below lay the vast, pure black form of the river that traverses half the city. Under sparse distant lights, it resembled a black hole, containing mystery, terror, and allure. I dared not look down, for I had little understanding of death.
 
-## Professional Development
+I lack courage, though I always believe we should "live as if we'll die tomorrow," yet I dare not face death, lacking imagination for it. Perhaps it's coincidence that the last time I contemplated death, I also faced a river. I fear water, but am grateful for its ability to embrace and erase everything. Though earth can also bury, I don't want to lose sight of light. My talk of death, ultimately, is just a desire for others' attachment. I imagine others' tears rather than whether I've lived life to the fullest.
 
-This year saw both challenges and opportunities in professional growth. The rapidly evolving tech landscape required continuous adaptation and learning, particularly in areas of AI and modern development practices.
+Death is a stepping stone to life; the true antonym of life should be avoidance. After another year of avoidance, I've gained new insight — **life's greatest enemy should be shyness**. It's shyness that makes me constantly seek others' approval, becoming the source of my self-imposed isolation, blocking my words and desires. **Adjacent to shyness is "fear of losing control," another form of shyness.** For instance, after taking the first step to overcome shyness, facing the fog ahead, thinking about the disorder of things, fearing loss of control and failure, I stop again.
 
-## Personal Growth
+I remain childish, unable to remind myself timely that **"disorder and imperfection are life's norm, failure is the majority case."**
 
-The journey of personal development has been marked by both progress and setbacks. Some habits improved, while others still need work. The key learning has been that growth isn't always linear - it's about consistent effort and patience.
+Reflecting on this year's life, I've neither gained nor contributed. My soul and thoughts remain stagnant, with only my body and my parents' nerves weakening. I often pace aimlessly at home, from bedroom to living room, glancing around before returning to my computer, and that's an entire day. My parents have essentially concluded that I've locked myself in my room. In my delusions, there might be a blank space I don't know how to fill or where to remedy. Amidst arguments and silence, I've lost my desire for sensory stimulation, with self-pleasure remaining the only sensation, as everything else gradually dims. I often had the same dream in childhood: the world evenly split in two, the upper half filled with cold, dark universe, the lower half arching with pale, cratered lunar surface. Alone in this alien world, mysteriously bodiless behind my observing gaze, I couldn't move, just floating silently, wordless.
 
-## Looking Forward
+After unemployment, I desperately sought excuses for my life, like being a small-town academic, while hoping to hear others' excuses, like the economic downturn. But I know these are irrelevant to me. Like online discussions about original family issues, I'm certain that at my age, I have no right to complain; I should be the one actively making changes. Complaining makes me seem childish, and no one wants to be a child. My parents rarely discuss this with me, giving me enough dignity, but they argue about another topic: marriage and family.
 
-As we move into the new year, the focus will be on building upon the foundations laid in 2024. The experiences and lessons learned will serve as stepping stones for future growth and development.
+This year, I met several potential partners through arranged meetings, all ending with my lack of initiative. Unlike me, my parents are eager, hoping to settle things quickly within months, closing this life chapter. "You'll never grow up without marriage and family" - such words hang over my head, leaving me half-convinced. My procrastination and attitude towards this matter make them increasingly question my entire being. Initially, they would advise me on how to pursue girls, later pouring out their grievances, comparing me to others' children, speaking of their aging, saying all parents want the best for their children.
+
+This is my observation of the conflict, but not my view on marriage and family. My parents clearly emphasize the latter part - family, while I care more about the former - union. Regarding union, a voice in my heart always says: I don't love myself, I hate who I am, I can't love myself, so how can I deserve to love others? I reject my current self and unconsciously push others away. In college, when a rare high school classmate actively contacted me, I only remember her saying on the phone that I always close my heart and shut myself away. At that time, walking in the winter dusk, gripping the phone tightly, remaining silent, never speaking, my mind still thinking about how I liked her. As years accumulated, I've become unsure even about liking someone. Have I ever truly liked someone?! I don't understand. Moreover, from liking to union, there's still quite a journey in my heart.
+
+Compared to the avoidance we don't discuss, this year, the word "escape" frequently surfaces in my mind. Living with parents, lacking physical contact with the world, my thoughts have birthed imaginations of beauty. I want to travel, to western Sichuan and Tibet, to wander; to another country, speak another language, immerse in crowds; to laugh with others, do things that make me happy. I long to realize different dreams, yearning to keep making choices, with thoughts of freedom appearing before my eyes.
+
+No more shyness, understanding failure as the norm - these are my insights into freedom, my desire to break free from the cage, my yearning for a free life. A job that doesn't need to be prestigious, my own house, making decisions without stagnation, being unashamed, experiencing life freely.
+
+On my to-do list, only two items are needed: one reminding myself "why be shy; always recognize imperfection and failure as the norm"; another urging myself "make choices quickly and continuously; strive for freedom, experience life freely."

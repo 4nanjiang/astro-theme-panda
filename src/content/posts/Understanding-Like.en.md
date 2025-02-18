@@ -1,21 +1,24 @@
 ---
-title: "Understanding 'Like'"
-pubDate: 2024-03-15
-tags: ['social media', 'reflection', 'digital life']
-description: "An exploration of the meaning and impact of 'likes' in our digital social interactions."
+title: Want versus Like
+title_en: Understanding "Like"
+pubDate: 2024-10-27
+tags: ['self-identity']
+description: "Exploring how 'liking' is connected to the consumption and production of content/value, and how it represents an altruistic act"
 draft: false
 ---
 
-In the digital age, the simple act of "liking" has become a complex social gesture. What does it mean when we click that thumbs-up or heart icon?
+I fear being asked about my interests or hobbies.
 
-## The Social Currency
+In childhood, I could answer easily, but as I've grown older, I've gradually lost the ability to respond. I've become cautious, constantly pondering: Do I really like this? Am I truly investing my heart in it, or am I merely filling an empty void?
 
-"Likes" have evolved into a form of social currency in our digital interactions. They serve as quick acknowledgments, show support, or simply indicate that we've seen something. But their meaning often goes deeper than these surface-level interpretations.
+As self-questioning increased, I began to doubt whether I truly understand what it means to "like" something, or if I know how to like. "You either like something or you don't"—is it really that simple? Over time, I found myself seemingly lacking passion for anything. So I questioned myself again: Is "liking" a form of passion?
 
-## The Psychology Behind Likes
+Recently, I've come to realize that liking is intimately connected with the consumption and production of content and value.
 
-The impact of receiving (or not receiving) likes affects our digital behavior and sometimes our self-perception. This seemingly simple feature has become a key factor in how we present ourselves online and how we interact with others' content.
-
-## Beyond the Surface
-
-Understanding "likes" requires looking beyond their face value. They represent a new language of digital communication, one that continues to evolve as our online social interactions become increasingly sophisticated.
+- The degree of liking is proportional to both the cost of acquiring content/value and the potential loss of value.
+  
+- Liking can be divided into three stages: consumption, associative creation, and value production.
+  
+- Liking isn't merely passion—it requires continuous investment and creates value that benefits others.
+  
+- Liking always drives sharing, making it inherently an altruistic behavior.

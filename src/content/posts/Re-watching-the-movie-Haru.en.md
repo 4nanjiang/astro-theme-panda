@@ -1,21 +1,20 @@
 ---
-title: "Re-watching Haru"
-pubDate: 2024-03-25
-tags: ['movie', 'reflection', 'Japanese cinema']
-description: "Reflections on revisiting the classic Japanese film 'Haru' and its enduring impact."
+title: Re-watching the Movie 'Haru'
+title_en: Re-watching the movie 'Haru'
+pubDate: 2025-02-12
+tags: ['movie', 'review', 'love', 'rewatching', 'Haru']
+description: 'Reflections on re-watching the movie "Haru", exploring memory, romance, and the film itself.'
 draft: false
 ---
 
-Returning to "Haru" after many years brings new perspectives and emotions. This Japanese classic, directed by Shunji Iwai, resonates differently with each viewing.
+I rarely re-watch novels or movies. Whether it's because I'm chasing too many new experiences or afraid of diluting old memories, I'm not quite sure.
 
-## Time's Lens
+Some days ago, I accidentally heard the soundtrack from "Haru" online and found the scene where Hoshino and Haru gaze at each other from the Shinkansen. The romance touched me once again. During the Spring Festival, I decided to re-watch "Haru."
 
-Watching the film now, certain scenes carry different weight than they did before. The portrayal of loss, memory, and connection feels more nuanced and profound with life experience.
+While watching, I realized how many details my memory had lost. I only remembered the subtle feelings between them but had forgotten their independent lives. While Hoshino was trapped in his past and Haru was starting anew, the internet merely served as an accidentally opened window, connecting them with a single thread.
 
-## Cultural Context
+Between the two storylines, the director clearly favored the female protagonist, with Eri Fukatsu bringing more nuance to her character. The male lead's unfamiliarity with the internet served to illustrate the era's emerging online relationships. The story's pace, like Mao Buyi's "Slow as Before," unfolds gradually.
 
-The film's depiction of Japanese winter landscapes and small-town life creates a unique atmosphere that enhances the story's emotional impact. The subtle cultural elements become more apparent and meaningful with each viewing.
+Re-watching the film, I experienced both the beauty in my memories and the complete, yet sometimes disjointed narrative. What I remembered as a perfect ending was actually just their beginning, with their paths only starting to intersect in the real world.
 
-## Emotional Resonance
-
-The way the film handles themes of love, loss, and memory continues to be powerful. Its ability to evoke complex emotions through simple moments and quiet scenes demonstrates the timeless quality of its storytelling.
+While I was immersed in the film's romance, delighting in love's blossoming, I had forgotten Rose's words: "Sister would be your type." Perhaps the story is just beginning, and their future remains particularly uncertain.
