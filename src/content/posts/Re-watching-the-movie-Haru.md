@@ -1,6 +1,6 @@
 ---
 title: 重看电影《春天情书》
-title_en: Re-watching the movie 'Love Letter'
+title_en: Re-watching the movie 'Haru'
 pubDate: 2025-02-12
 tags: ['电影', '影评', '爱情', '重看', '春天情书']
 description: '重看电影《春天情书》的观后感，探讨记忆、浪漫与电影本身。' 
