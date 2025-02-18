@@ -14,21 +14,21 @@ function isRootPage() {
 
 <nav class={url.toString().includes('/posts/') ? 'hidden' : ''}>
     <a
-            rel="prefetch"
-            href={path('/')}
-            class="panda-link mr-4 animated hover:no-underline"
-            class:list={isRootPage() ? 'active' : ''}>{t('nav.posts')}</a
-    >
+        rel="prefetch"
+        href={path('/')}
+        class="panda-link mr-4 animated hover:no-underline"
+        class:list={isRootPage() ? 'active' : ''}
+    >{t('nav.posts')}</a>
     {
-        items.map((item) => {
-            return (
-                    <a
-                            rel="prefetch"
-                            href={item.url}
-                            class="panda-link mr-4 animated hover:no-underline"
-                            class:list={url.toString().includes(item.url) ? 'active' : ''}
-                    >{item.title}</a>
-            )
-        })
+        items.map((item) => (
+            <a
+                rel="prefetch"
+                href={path(item.url)}
+                class="panda-link mr-4 animated hover:no-underline"
+                class:list={url.toString().includes(item.url) ? 'active' : ''}
+            >
+                {typeof item.title === 'object' ? item.title[locale] : item.title}
+            </a>
+        ))
     }
 </nav>

@@ -1,17 +1,17 @@
 ---
 import ThemeIcon from '@components/ThemeIcon.astro'
+import LanguageSwitch from '@components/LanguageSwitch.astro'
 import { useLocale } from '@utils/locale'
-const { path } = useLocale(Astro.url)
-
-export const prerender = true
+const { t, path, locale } = useLocale(Astro.url)  // 添加 locale
 ---
 
 <div class="my-6 flex">
-    <a href={path('/')}  class="hover:cursor-pointer opacity-100 hover:opacity-80 panda-link ">
-        <i class="hidden">website header </i>
-       <h1 ">南江 Blog</h1>
+    <a href={path('/')} class="hover:cursor-pointer opacity-100 hover:opacity-80 panda-link">
+        <i class="hidden">website header</i>
+        <h1>{locale === 'en' ? 'NanJiang Blog' : '南江 Blog'}</h1>
     </a>
-    <div class="text-sm place-content-center inline ml-auto">
+    <div class="text-sm place-content-center inline ml-auto flex gap-4">
+        <LanguageSwitch />
         <ThemeIcon />
     </div>
 </div>

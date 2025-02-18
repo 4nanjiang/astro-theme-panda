@@ -1,8 +1,9 @@
 ---
 import Layout from './Layout.astro'
 import {useLocale} from '@utils/locale'
-import {formatDateYMD} from "@utils/format";
-import {PostFrontMatter} from "../type";
+import {formatDateYMD} from "@utils/format"
+import {PostFrontMatter} from "../type"
+import { slugifySpace } from '@utils/format'  // 添加这行导入
 
 interface Props {
     FrontMatter: PostFrontMatter;
@@ -93,13 +94,29 @@ const title = locale === 'en' && FrontMatter['title-en'] ? FrontMatter['title-en
     <article class="prose dark:prose-invert prose-stone max-w-prose mt-6">
         <slot/>
     </article>
+    
+    {/* 添加标签显示 */}
+    <div class="mt-6">
+        {
+            FrontMatter.tags && FrontMatter.tags.map((tag) => (
+                <a
+                    class="mr-1 text-sm panda-link my-1 hover:font-bold"
+                    href={path('/tags/' + slugifySpace(tag) + '/')}
+                >
+                    #{t('tags.' + tag)}
+                </a>
+            ))
+        }
+    </div>
+
+    {/* 最后修改时间显示 */}
     {
         FrontMatter.pubDate !== FrontMatter.lastModified && (
-                    <div class="mt-9 flex text-sm font-italic opacity-80">
+            <div class="mt-9 flex text-sm font-italic opacity-80">
                 <span class="ml-auto">
                     {t('post.last_modified_at')} {formatDateYMD(FrontMatter.lastModified)}
                 </span>
-                    </div>
+            </div>
         )
     }
 </Layout>

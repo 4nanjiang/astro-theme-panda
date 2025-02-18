@@ -3,10 +3,10 @@ import BlogListLayout from '@layouts/BlogListLayout.astro'
 export const prerender = true
 
 export async function getStaticPaths() {
-    const posts = await Astro.glob('../../content/posts/**/*.{md,mdx}')
+    const posts = await import.meta.glob('../../content/posts/**/*.{md,mdx}', { eager: true })
     const tags = [
         ...new Set(
-            posts
+            Object.values(posts)
                 .filter((i) => i.frontmatter.tags)
                 .map((i) => i.frontmatter.tags)
                 .flat()

@@ -1,0 +1,27 @@
+---
+import BlogPostLayout from '@layouts/BlogPostLayout.astro'
+import { useLocale } from "@utils/locale";
+export const prerender = true
+
+export async function getStaticPaths() {
+    const posts = await import.meta.glob('../../../content/posts/*.{md,mdx}', { eager: true })
+    const en_posts = Object.values(posts).filter((post) => post.file.includes('.en.md'))
+    return en_posts.map((post) => {
+        const fileName = post.file.split('/').pop().replace('.en.md', '')
+        return {
+            params: {
+                slug: fileName
+            },
+            props: {
+                post: post
+            }
+        }
+    })
+}
+
+const { Content, frontmatter } = Astro.props.post
+---
+
+<BlogPostLayout FrontMatter={frontmatter}>
+    <Content />
+</BlogPostLayout>

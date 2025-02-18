@@ -21,7 +21,7 @@ export function formatDateMD(dateStr: string, locale: string = 'zh') {
 }
 
 export function formatDateYMD(dateString: string, locale: string = 'zh') {
-    locale = defaultLocale // force to default language
+    // 移除强制默认语言
     const date = DateTime.fromISO(dateString)
     if (locale === 'en') {
         return date.setLocale(locale).toFormat('dd, MMM, yyyy')

@@ -5,8 +5,10 @@ export const PandaConfig = {
     site: 'https://www.nanjiang.online/',
     defaultLocale: 'zh',
     navbar: [
-        // {title: 'Posts', url: '/'}, // auto generated
-        { title: '关于我', url: '/about/' }
+        {
+            title: { zh: '关于我', en: 'about' },
+            url: '/about/'
+        }
     ],
     footer: [
         { title: 'rss', url: '/rss.xml/' },

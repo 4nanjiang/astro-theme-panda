@@ -4,16 +4,9 @@ import get from 'lodash/get'
 import { PandaConfig } from '../config.js'
 const { defaultLocale } = PandaConfig
 
-// TODO cofigure the i18n
-
-// This is a simple i18n implementation
 const useLocalePath = (lang: string) => {
-    lang ??= ''
-    if (lang === 'zh') {
-        lang = ''
-    }
-    lang = '' // force to default language
-    const start = lang ? '/en' : ''
+    lang ??= defaultLocale
+    const start = lang === 'en' ? '/en' : ''
     return (path: string) => {
         let url = start + path
         if (!url.endsWith('/')) url += '/'
@@ -22,7 +15,7 @@ const useLocalePath = (lang: string) => {
 }
 
 const useTranslation = (lang: string) => {
-    if (!lang) lang = 'zh'
+    if (!lang) lang = defaultLocale
     return (key: string) => {
         const data = lang === 'zh' ? [zh, en] : [en, zh]
         const r = get(data[0], key)
@@ -35,7 +28,8 @@ const useTranslation = (lang: string) => {
 }
 
 export const useLocale = (url: URL) => {
-    const locale = defaultLocale // force to default language
+    // 根据 URL 路径判断当前语言
+    const locale = url.pathname.startsWith('/en') ? 'en' : defaultLocale
     return {
         path: useLocalePath(locale),
         t: useTranslation(locale),
