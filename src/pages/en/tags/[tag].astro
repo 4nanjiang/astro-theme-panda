@@ -3,11 +3,11 @@ import BlogListLayout from '@layouts/BlogListLayout.astro'
 export const prerender = true
 
 export async function getStaticPaths() {
-    const posts = await import.meta.glob('../../content/posts/**/*.{md,mdx}', { eager: true })
+    const posts = await import.meta.glob('../../../content/posts/**/*.{md,mdx}', { eager: true })
     const tags = [
         ...new Set(
             Object.values(posts)
-                .filter((i) => i.frontmatter.tags)
+                .filter((i) => i.frontmatter.tags && i.file.includes('.en.md'))  // 修改 i.id 为 i.file
                 .map((i) => i.frontmatter.tags)
                 .flat()
         )
