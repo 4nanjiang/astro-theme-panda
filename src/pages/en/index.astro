@@ -3,4 +3,4 @@ import BlogListLayout from '@layouts/BlogListLayout.astro'
 import { useLocale } from '@utils/locale'
 const { t } = useLocale(Astro.url)
 ---
-<BlogListLayout tag="" category="" />
+<BlogListLayout title={t('nav.posts')} tag="" category="" />

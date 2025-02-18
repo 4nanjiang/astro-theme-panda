@@ -7,7 +7,12 @@ import { parseSlug } from '@utils/file'
 import { useLocale } from '@utils/locale'
 import { formatDateMD } from '@utils/format'
 const { path, t, locale } = useLocale(Astro.url)
-let { tag, category } = Astro.props
+let { title, tag, category } = Astro.props
+
+// 如果没有传入标题，使用默认的导航标题
+if (!title) {
+    title = t('nav.posts')
+}
 
 const posts = Object.values(await import.meta.glob('../content/posts/**/*.{md,mdx}', { eager: true })).map((i) => {
     i.frontmatter['url'] = parseSlug(i.file) + '/'
@@ -46,7 +51,7 @@ function getTitle(post) {
 }
 ---
 
-<Layout title={t('nav.posts')}>
+<Layout title={title}>
     <main class="mt-8">
         {
             result.map((yearItem) => (
@@ -54,7 +59,7 @@ function getTitle(post) {
                     <div class="text-2xl font-bold italic my-3">{yearItem.year}</div>
                     <ul class="px-2">
                         {yearItem.list.map((post: any) => (
-                            <li class="my-1 flex transition-all duration-300">
+                            <li class={`flex transition-all duration-300 ${locale === 'en' ? 'mb-[0.55rem]' : 'my-1'}`}>
                                 <span style={{ flex: '0 0 5rem' }}>
                                     <time class="mr-2">{formatDateMD(post.pubDate)}</time>
                                 </span>
