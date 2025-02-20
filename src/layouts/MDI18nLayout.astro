@@ -1,18 +1,26 @@
 ---
 import { useLocale } from '@utils/locale'
+import { formatDateYMD } from "@utils/format"
 const { title, slug, path, posts } = Astro.props
-const { locale } = useLocale(Astro.url)
+const { locale, t } = useLocale(Astro.url)  // 添加 t
 
 const en = posts.find((p) => p.file.includes(`${slug}.en`))
 const defaultLang = posts.find((p) => p.file.includes(`${slug}.md`))
 import Layout from '@layouts/Layout.astro'
 // 启用语言切换逻辑
-const { Content } = locale === 'en' ? en : defaultLang
+const { Content, frontmatter } = locale === 'en' ? en : defaultLang
 export const prerender = true
 ---
 
 <Layout title={title}>
-    <div class="mt-9">
+    <article class="prose dark:prose-invert prose-stone max-w-prose">
         <Content />
-    </div>
+        
+        {/* 显示最后更新时间 */}
+        <div class="mt-9 flex text-sm font-italic opacity-80">
+            <span class="ml-auto">
+                {t('post.last_modified_at')} {formatDateYMD(frontmatter.lastModified)}
+            </span>
+        </div>
+    </article>
 </Layout>

@@ -1,0 +1,7 @@
+---
+import MDI18nLayout from '@layouts/MDI18nLayout.astro'
+import { useLocale } from '@utils/locale'
+const { t } = useLocale(Astro.url)
+const posts = await import.meta.glob('../../content/projects/*.md', { eager: true })
+---
+<MDI18nLayout title={t('nav.recent')} slug="projects" posts={Object.values(posts)} />
