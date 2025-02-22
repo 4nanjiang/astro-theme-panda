@@ -4,8 +4,8 @@ export const PandaConfig = {
         en: 'NanJiang Blog'
     },
     description: {
-        zh: '不加引证的言谈，不经推敲的思考',
-        en: 'Words without citation, thoughts without refinement'
+        zh: '不加引证的言谈，不经推敲的思考。',
+        en: 'Words without citation, thoughts without refinement.'
     },
     start: '2024',
     site: 'https://www.nanjiang.online/',

@@ -1,8 +1,11 @@
 ---
 import {useLocale} from '@utils/locale'
 import {PandaConfig} from "../config.js";
-const {start, footer} = PandaConfig;
-const {t, path, locale} = useLocale(Astro.url)  // 添加 locale
+const {start, footer, description} = PandaConfig;  // 添加 description
+const {t, path, locale} = useLocale(Astro.url)
+
+// 获取当前语言的描述
+const currentDescription = typeof description === 'object' ? description[locale] : description
 ---
 
 <footer class="mt-12 mb-6 text-sm">
@@ -21,14 +24,15 @@ const {t, path, locale} = useLocale(Astro.url)  // 添加 locale
             ))
         }
     </div>
-    <div class="mb-1">
-        <span>{start}-{new Date().getFullYear()}</span>
+    <div class="mb-1 flex items-center gap-6">
+        <span class="text-sm">{currentDescription}</span>
+        <span class="text-sm text-gray-400 dark:text-gray-500 italic">{start}-{new Date().getFullYear()}</span>
     </div>
     <div class="text-sm">
         {t('footer.built-with')}
         <a class="panda-link italic" href="https://astro.build/">astro</a>, {t('footer.inspired-by')}<a
             class="panda-link italic ml-1"
             href="https://bearblog.dev/">bearblog</a
-    >.
+        >.
     </div>
 </footer>
