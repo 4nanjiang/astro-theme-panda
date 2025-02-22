@@ -58,7 +58,10 @@ export default defineConfig({
             }
         }),
         mdx(),
-        partytown()
+        partytown({
+            config: {
+                forward: ["dataLayer.push", "gtag"],
+            },
+        }),
     ],
-    output: 'static',
 })
