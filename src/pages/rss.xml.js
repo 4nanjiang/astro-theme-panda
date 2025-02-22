@@ -3,6 +3,12 @@ import { getCollection } from 'astro:content'
 import MarkdownIt from 'markdown-it'
 import { PandaConfig } from '../config.js'
 const { site, description, title } = PandaConfig
+const getTitle = () => typeof title === 'object' ? title.zh : title
+
+// 获取当前语言的描述
+const getDescription = () => {
+    return typeof description === 'object' ? description.zh : description
+}
 
 export const prerender = true
 
@@ -12,7 +18,6 @@ export async function GET({ params }) {
     const blog = await getCollection('posts')
     const posts = blog
         .filter((i) => {
-            // 过滤出非草稿且不是英文版本的文章
             return i.data.title && !i.data.draft && !i.id.includes('.en.md')
         })
         .map((post) => {
@@ -27,8 +32,8 @@ export async function GET({ params }) {
         (
             await rss({
                 site,
-                title: `${title} - 中文`,
-                description,
+                title: `${getTitle()} - 中文`,
+                description: getDescription(),
                 items: posts
             })
         ).body,

@@ -11,9 +11,19 @@ interface Props {
 const {FrontMatter} = Astro.props
 const {path, t, locale} = useLocale(Astro.url)
 const title = locale === 'en' && FrontMatter['title-en'] ? FrontMatter['title-en'] : FrontMatter['title']
+
+// 准备 SEO 相关的数据
+const seoData = {
+    title: title,
+    description: FrontMatter.description,
+    pubDate: FrontMatter.pubDate,
+    lastModified: FrontMatter.lastModified,
+    tags: FrontMatter.tags,
+    categories: FrontMatter.categories,
+}
 ---
 
-<Layout title={title} navbar={false}>
+<Layout title={title} navbar={false} seoData={seoData}>
     <a rel="prefetch" class="panda-link mt-6" href={path('/')}>{t('post.back')}</a>
     <style is:inline>
         /* notification */

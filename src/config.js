@@ -1,6 +1,12 @@
 export const PandaConfig = {
-    title: '南江 Blog',
-    description: '不加引述的言谈，不经推敲的思考',
+    title: {
+        zh: '南江 Blog',
+        en: 'NanJiang Blog'
+    },
+    description: {
+        zh: '不加引述的言谈，不经推敲的思考',
+        en: 'Thoughts and reflections, unquoted and unpolished'
+    },
     start: '2024',
     site: 'https://www.nanjiang.online/',
     defaultLocale: 'zh',
