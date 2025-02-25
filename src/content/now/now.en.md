@@ -1,37 +1,37 @@
-## Now
+## The Direction of My Life Story
 
-What I'm focusing on.
+Imagining life as a game, where am I in the story right now?
 
-### Work & Wealth
+### 🏰⚔️ Main Quest: Finding a Job, Moving to Another City
 
-- I'm looking for a job. My expectations for work are: first, to be able to leave the current city, and second, to explore potential long-term value in certain fields.
-- Being poor, thinking about where money comes from.
+*Due to financial constraints, I feel restricted and seek more freedom.*
 
-### Relationships
+I'm exploring ways to generate income through different channels.
+- I'm looking for a job. Firstly, it would allow me to start fresh in a new city; secondly, I'm exploring fields that could generate value in the future; and thirdly, I want to try different things.
+- I've started exploring social media and e-commerce.
 
-- Single at an older age.
-- Want to take more responsibility in my family role for my parents.
-- I have few friends. Looking for like-minded friends. Used to being alone but don't want to always be lonely.
+### 🗺️🔍 Side Quest Adventures
 
-### Health & Routines
+#### Protagonist's Self-Awareness
 
-- Developing early-to-bed and early-to-rise habits.
-- Long-term sedentary lifestyle, weak cardiopulmonary function, wanting to restore basic physical capabilities.
+*Currently, I struggle with laziness and procrastination, lacking mindfulness and responsibility. Believing in long-term thinking, I hope to gain compound benefits each day.*
 
-### Things I'm Trying
+I'm trying to develop thinking habits through consistent routines. Currently, I maintain morning pages, daily planning, blog writing, and expense tracking, using Habitica to monitor these habits.
 
-- Maintaining a blog consistently.
-- Using Habitica to track daily habits.
-- Developing habits of listening to audiobooks and reading before bed every day.
+I also want to experience better health, so I've started maintaining a regular sleep schedule and trying to avoid sitting for long periods.
 
-### Books I'm Reading
+#### Unveiling World's Mysteries: Exploration
 
-- The Story of America
-- The Book of Illusions
-- Clear Thinking: Turning Ordinary Moments into Extraordinary Results
+*I've isolated myself for a long time, both geographically and spiritually. I'm telling myself not to be shy, to actively engage, and to keep making choices.*
 
-### Shows & Series I'm Watching
+I'm trying to read extensively, starting with fiction. Currently reading "The Book of Illusions" and "The Story of America" before bed.
 
-- Shōgun
-- Solo Leveling
-- Tales of Herding Gods
+I like a book title called "Die If You Don't Go." I plan to visit Hong Kong this year to experience different cultures. I want to explore more places and am learning English vocabulary using Anki.
+
+I frequently watch movies, TV series, and anime. Just finished "The Last of Us," currently watching "Shōgun" and "Solo Leveling." However, I realized one day that without reflection, sharing, and creation, it's merely consumption - not genuine interest or passion. Going forward, I'll share my thoughts when I find media I enjoy.
+
+#### Meeting People
+
+I care about my family and friends but rarely take action. I have few friends and wish to meet interesting people.
+
+(Note: This article was originally written in Chinese and translated to English by AI. Please excuse any imperfections in expression.)
