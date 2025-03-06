@@ -12,7 +12,7 @@ export const PandaConfig = {
     defaultLocale: 'zh',
     navbar: [
         {
-            title: { zh: '项目', en: 'projects' },
+            title: { zh: '路线图', en: 'roadmap' },
             url: '/projects/'
         },
         {
