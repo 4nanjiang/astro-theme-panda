@@ -1,5 +1,1 @@
-## About Me
-
-This is my English about page.
-
-(Add your English introduction here)
+> I didn't know who I was, I didn't know what I wanted, I had to find a new way of being with others, and until I did that, I was only half a person.

@@ -1,15 +1,1 @@
-## A privacy-first, no-nonsense, super-fast astro blogging theme
-
-**No trackers, a few javascript, few stylesheets**. and your words.
-
-Looks great on any device
-
-Tiny (~30kb), optimized, and awesome pages
-
-No trackers, ads, little scripts
-
-RSS feeds
-
-Publish something awesome with your panda hands 
-
-
+> 我不知道我是谁，我不知道我想要什么，我必须重新找到一种与他人共处的方法，而在那之前，我只能算是半个人。
