@@ -28,7 +28,7 @@ I'm trying to read extensively, starting with fiction. Currently reading "The Bo
 
 I like a book title called "Die If You Don't Go." I plan to visit Hong Kong this year to experience different cultures. I want to explore more places and am learning English vocabulary using Anki.
 
-I frequently watch movies, TV series, and anime. Just finished "The Last of Us," currently watching "Shōgun" and "Solo Leveling." However, I realized one day that without reflection, sharing, and creation, it's merely consumption - not genuine interest or passion. Going forward, I'll share my thoughts when I find media I enjoy.
+I frequently watch movies, TV series, and anime. Just finished "The Substance", currently watching "Shōgun" and "Solo Leveling." However, I realized one day that without reflection, sharing, and creation, it's merely consumption - not genuine interest or passion. Going forward, I'll share my thoughts when I find media I enjoy.
 
 #### Meeting People
 
