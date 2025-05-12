@@ -4,7 +4,7 @@ title_en: "Book Notes: Die with Zero"
 pubDate: 2025-05-12
 tags: ['book','人生规划', '人生哲学', '生活体验']
 description: '最优解人生一书的书摘。'
-draft: ture
+draft: false
 ---
 
 
