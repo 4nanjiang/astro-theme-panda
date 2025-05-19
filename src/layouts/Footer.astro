@@ -26,13 +26,5 @@ const currentDescription = typeof description === 'object' ? description[locale]
     </div>
     <div class="mb-1 flex items-center gap-6">
         <span class="text-sm">{currentDescription}</span>
-        <span class="text-sm text-gray-400 dark:text-gray-500 italic">{start}-{new Date().getFullYear()}</span>
-    </div>
-    <div class="text-sm">
-        {t('footer.built-with')}
-        <a class="panda-link italic" href="https://astro.build/">astro</a>, {t('footer.inspired-by')}<a
-            class="panda-link italic ml-1"
-            href="https://bearblog.dev/">bearblog</a
-        >.
     </div>
 </footer>
