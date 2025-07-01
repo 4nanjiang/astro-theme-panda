@@ -1,7 +1,7 @@
 ---
 title: 日志的形式
 title_en: Daily Reflections
-pubDate: 2025-07-01
+pubDate: 2025-06-30
 tags: ['文化评论', '动画改编', '综艺节目', '电竞赛事', '社交媒体', '读书笔记', '文化现象', 'OWCS', 'Cloudflare', 'PICGO']
 description: '记录了对诡秘之主动画改编、综艺节目改编、电竞赛事直播环境等文化现象的观察与思考，同时涵盖了个人对图床配置、读书心得等日常经历的记录与感悟。'
 draft: false

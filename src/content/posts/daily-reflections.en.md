@@ -1,7 +1,7 @@
 ---
 title: Daily Reflections
 title_en: Daily Reflections
-pubDate: 2025-07-01
+pubDate: 2025-06-30
 tags: ['Cultural Commentary', 'Animation Adaptation', 'Variety Shows', 'Esports Events', 'Social Media', 'Reading Notes', 'Cultural Phenomena', 'OWCS', 'Cloudflare', 'PICGO']
 description: 'Observations and reflections on cultural phenomena including the Lord of the Mysteries animation adaptation, variety show adaptations, and the esports streaming environment, along with personal experiences in image hosting configuration and reading insights.'
 draft: false
