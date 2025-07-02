@@ -3,7 +3,7 @@ title: Cooking and Military Service - Reflections on Daily Life and Historical R
 title_en: Cooking and Military Service - Reflections on Daily Life and Historical Reading
 pubDate: 2025-07-02
 tags: ['Cooking Techniques', 'Life Reflections', 'Historical Reading', '1587 A Year of No Significance', 'Qi Jiguang', 'Military System', 'Food Culture', 'Food Delivery Economy', 'Reading Notes']
-description: "A personal exploration of culinary arts and reflections on historical insights gained from reading '1587, A Year of No Significance', particularly focusing on the Ming Dynasty military system and Qi Jiguang\'s reforms, along with observations on the contemporary food delivery economy."
+description: "A personal exploration of culinary arts and reflections on historical insights gained from reading '1587, A Year of No Significance', particularly focusing on the Ming Dynasty military system and Qi Jiguang's reforms, along with observations on the contemporary food delivery economy."
 draft: false
 ---
 
