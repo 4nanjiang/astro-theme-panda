@@ -2,9 +2,6 @@
 title: Economic Perspectives on Contemporary Issues
 title_en: Economic Perspectives on Contemporary Issues
 pubDate: 2024-01-09
-categories: ['Lu Xun']
-tags: ['blog', 'blogging']
-description: '123'
 draft: false
 ---
 
