@@ -1,5 +1,5 @@
 ---
-title: Lingnan-Memoir-3-Unadapted-Routine
+title: Lingnan Memoir 3 Unadapted Routine
 title_en: Lingnan-Memoir-3-Unadapted-Routine
 pubDate: 2025-07-24
 tags: ['Lingnan', 'Routine', 'Adaptation', 'City Life', 'Rental', 'Mall', 'Nightlife', 'Personal Growth']

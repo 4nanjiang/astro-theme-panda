@@ -1,5 +1,5 @@
 ---
-title: 岭南记 3: 未适应的生活规律
+title: "岭南记 3: 未适应的生活规律"
 title_en: Lingnan-Memoir-3-Unadapted-Routine
 pubDate: 2025-07-24
 tags: ['岭南', '生活规律', '适应', '城市生活', '租房', 'Mall', '夜生活', '个人成长']
