@@ -1,6 +1,6 @@
 ---
-title: 岭南记 6 - 物质的重量
-title_en: Lingnan Memoir 6 - The Weight of Matter
+title: 岭南记 6 | 物质的重量
+title_en: Lingnan Memoir 6 | The Weight of Matter
 pubDate: 2025-07-27
 tags: ['岭南', '生活', '书店', '阅读', 'Routine', '身体训练', '东京八平米', '文学', '社科', '推理', '科幻', '书籍', '电子书', '马斯克', '李飞飞', '女性主义', '漫画']
 description: 本文记录了作者在岭南生活中的周末体验，通过逛商场与书店，感受物质与精神的双重重量，探讨日常 Routine、身体训练以及阅读带来的思考与慰藉，内容涵盖文学、社科、科幻等多元主题，适合关注生活方式与阅读体验的读者。

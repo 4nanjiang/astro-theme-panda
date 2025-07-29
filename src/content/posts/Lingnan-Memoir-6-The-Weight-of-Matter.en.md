@@ -1,6 +1,6 @@
 ---
-title: Lingnan Memoir 6 - The Weight of Matter
-title_en: Lingnan Memoir 6 - The Weight of Matter
+title: Lingnan Memoir 6 | The Weight of Matter
+title_en: Lingnan Memoir 6 | The Weight of Matter
 pubDate: 2025-07-27
 tags: ['Lingnan', 'Life', 'Bookstore', 'Reading', 'Routine', 'Physical Training', 'Tokyo Eight Square Meters', 'Literature', 'Social Science', 'Mystery', 'Science Fiction', 'Books', 'E-books', 'Elon Musk', 'Fei-Fei Li', 'Feminism', 'Comics']
 description: This article records the author's weekend experiences in Lingnan, exploring the dual weight of material and spirit through visits to malls and bookstores. It discusses daily routines, physical training, and the reflections and comfort brought by reading, covering diverse topics such as literature, social science, and science fiction. Suitable for readers interested in lifestyle and reading experiences.
